@@ -25,7 +25,7 @@ Welcome to the Turtle Race Game! This is a fun and interactive game where you ge
 ## Screenshots 📷
 
 ![turtle_race_screenshot_1](starting.png)
-![turtle_race_screenshot_2](https://example.com/screenshot_2.png)
+![turtle_race_screenshot_2](finish.png)
 
 ## Contributions 🤝
 
