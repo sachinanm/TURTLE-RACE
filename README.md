@@ -1,6 +1,6 @@
 # Turtle Race Game 🐢🏁
 
-![turtle_race](https://example.com/turtle_race_screenshot.png)
+![turtle_race](turtle race.png)
 
 Welcome to the Turtle Race Game! This is a fun and interactive game where you get to bet on which turtle will win the race. Are you feeling lucky? Let's get started!
 
