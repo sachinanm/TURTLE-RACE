@@ -1,6 +1,6 @@
 # Turtle Race Game 🐢🏁
 
-![turtle_race]([turtle race.png](https://github.com/sachinanm/TURTLE-RACE/blob/5a54778c8c831495c8d267ff0b041bf628fe53d3/turtle%20race.png))
+![turtle_race](turtlerace.png)
 
 Welcome to the Turtle Race Game! This is a fun and interactive game where you get to bet on which turtle will win the race. Are you feeling lucky? Let's get started!
 
